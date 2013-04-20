@@ -1,2 +1,2 @@
-bigheadcool
+railsinstaller_demo
 ===========
